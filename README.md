@@ -1,1 +1,1 @@
-A simple variation on Game of Life made for objective programming at University.
+A variation of Game of Life made for objective programming at University.
